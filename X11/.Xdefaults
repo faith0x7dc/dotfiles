@@ -1,0 +1,29 @@
+urxvt.geometry: 72x24
+urxvt.saveLines: 512
+urxvt.scrollBar: false
+urxvt.termName: rxvt
+
+! アイコン
+urxvt.iconFile: /usr/share/icons/Humanity/apps/128/gnome-terminal.svg
+
+! フォント
+urxvt.font: xft:Monospace:size=12:antialias=true
+
+! 履歴
+urxvt.saveLines: 20000
+
+! color
+urxvt.depth: 32
+urxvt.foreground: rgba:ffff/ffff/ffff/ffff
+urxvt.background: rgba:0000/0000/0000/cccc
+
+! blue
+urxvt.color4: #5566ff
+urxvt.color12: #7799ff
+
+! fadeout urxvt if unfocus
+urxvt.fading: 30
+
+! タブ
+urxvt.perl-ext-common: default,tabbed
+

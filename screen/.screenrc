@@ -1,0 +1,7 @@
+escape ^Tt
+
+startup_message off
+
+hardstatus on
+hardstatus alwayslastline "%-w%{= ck}%n %t%{-}%+w"
+
