@@ -1,0 +1,8 @@
+[begin] (Menu)
+  [exec] (urxvt) {/usr/bin/urxvt}
+  [exec] (Firefox) {/usr/bin/firefox}
+  [nop] (----------)
+  [submenu] (Fluxbox)
+    [include] (/etc/X11/fluxbox/fluxbox-menu)
+  [end]
+[end]

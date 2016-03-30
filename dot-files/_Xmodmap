@@ -1,0 +1,7 @@
+!
+! Capslock -> Ctrl
+!
+remove Lock = Caps_lock
+keysym Caps_Lock = Control_L
+add Control = Control_L
+
